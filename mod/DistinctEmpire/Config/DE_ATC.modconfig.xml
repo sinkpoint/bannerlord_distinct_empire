@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ATCConfig>
+	<MapFaction id="player_faction">
+		<Culture id="default">
+			<basicTroops>
+			</basicTroops>
+			<eliteTroops>
+			</eliteTroops>            
+		</Culture>
+	</MapFaction>
+	<MapFaction id="player_clan">
+		<Culture id="default">
+			<basicTroops>
+			</basicTroops>
+			<eliteTroops>
+			</eliteTroops>             
+		</Culture>
+	</MapFaction>    
+	<MapFaction id="empire_s">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="es_imperial_recruit" percent="100" />
+			</basicTroops>
+			<eliteTroops>
+                <volunteer id="es_imperial_vigla_recruit" percent="100" />
+			</eliteTroops>
+		</Culture>
+		<Culture id="aserai">
+			<basicTroops>
+				<volunteer id="es_imperial_recruit" percent="60" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="es_imperial_vigla_recruit" percent="60" />
+			</eliteTroops>
+		</Culture>        
+		<Culture id="vlandia">
+			<basicTroops>
+				<volunteer id="es_imperial_recruit" percent="60" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="es_imperial_vigla_recruit" percent="60" />
+			</eliteTroops>
+		</Culture>
+		<Culture id="battania">
+			<basicTroops>
+				<volunteer id="es_imperial_recruit" percent="60" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="es_imperial_vigla_recruit" percent="60" />
+			</eliteTroops>
+		</Culture>
+		<Culture id="khuzait">
+			<basicTroops>
+				<volunteer id="es_imperial_recruit" percent="60" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="es_imperial_vigla_recruit" percent="60" />
+			</eliteTroops>
+		</Culture>
+	</MapFaction>
+	<MapFaction id="empire">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="en_imperial_recruit" percent="100" />
+			</basicTroops>
+			<eliteTroops>
+                <volunteer id="en_imperial_vigla_recruit" percent="100" />
+			</eliteTroops>
+		</Culture>
+		<Culture id="aserai">
+			<basicTroops>
+				<volunteer id="en_imperial_recruit" percent="60" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="en_imperial_vigla_recruit" percent="60" />
+			</eliteTroops>
+		</Culture>        
+		<Culture id="vlandia">
+			<basicTroops>
+				<volunteer id="en_imperial_recruit" percent="60" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="en_imperial_vigla_recruit" percent="60" />
+			</eliteTroops>
+		</Culture>
+		<Culture id="battania">
+			<basicTroops>
+				<volunteer id="en_imperial_recruit" percent="60" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="en_imperial_vigla_recruit" percent="60" />
+			</eliteTroops>
+		</Culture>
+		<Culture id="khuzait">
+			<basicTroops>
+				<volunteer id="en_imperial_recruit" percent="60" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="en_imperial_vigla_recruit" percent="60" />
+			</eliteTroops>
+		</Culture>
+	</MapFaction>
+	<MapFaction id="empire_w">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="ew_imperial_recruit" percent="100" />
+			</basicTroops>
+			<eliteTroops>
+                <volunteer id="ew_imperial_vigla_recruit" percent="100" />
+			</eliteTroops>
+		</Culture>
+		<Culture id="aserai">
+			<basicTroops>
+				<volunteer id="ew_imperial_recruit" percent="60" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="ew_imperial_vigla_recruit" percent="60" />
+			</eliteTroops>
+		</Culture>        
+		<Culture id="vlandia">
+			<basicTroops>
+				<volunteer id="ew_imperial_recruit" percent="60" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="ew_imperial_vigla_recruit" percent="60" />
+			</eliteTroops>
+		</Culture>
+		<Culture id="battania">
+			<basicTroops>
+				<volunteer id="ew_imperial_recruit" percent="60" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="ew_imperial_vigla_recruit" percent="60" />
+			</eliteTroops>
+		</Culture>
+		<Culture id="khuzait">
+			<basicTroops>
+				<volunteer id="ew_imperial_recruit" percent="60" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="ew_imperial_vigla_recruit" percent="60" />
+			</eliteTroops>
+		</Culture>
+	</MapFaction>    
+</ATCConfig>
