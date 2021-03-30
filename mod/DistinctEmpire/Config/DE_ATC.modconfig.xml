@@ -141,5 +141,61 @@
 				<volunteer id="ew_imperial_vigla_recruit" percent="60" />
 			</eliteTroops>
 		</Culture>
-	</MapFaction>    
+	</MapFaction>
+	<MapFaction id="aserai">
+		<Culture id="empire">
+			<basicTroops>
+				<volunteer id="ew_imperial_recruit" percent="20" />
+				<volunteer id="en_imperial_recruit" percent="20" />
+				<volunteer id="es_imperial_recruit" percent="20" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="ew_imperial_vigla_recruit" percent="20" />
+				<volunteer id="en_imperial_vigla_recruit" percent="20" />
+				<volunteer id="es_imperial_vigla_recruit" percent="20" />
+			</eliteTroops>
+		</Culture>
+	</MapFaction> 
+	<MapFaction id="vlandia">
+		<Culture id="empire">
+			<basicTroops>
+				<volunteer id="ew_imperial_recruit" percent="20" />
+				<volunteer id="en_imperial_recruit" percent="20" />
+				<volunteer id="es_imperial_recruit" percent="20" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="ew_imperial_vigla_recruit" percent="20" />
+				<volunteer id="en_imperial_vigla_recruit" percent="20" />
+				<volunteer id="es_imperial_vigla_recruit" percent="20" />
+			</eliteTroops>
+		</Culture>
+	</MapFaction>
+	<MapFaction id="battania">
+		<Culture id="empire">
+			<basicTroops>
+				<volunteer id="ew_imperial_recruit" percent="20" />
+				<volunteer id="en_imperial_recruit" percent="20" />
+				<volunteer id="es_imperial_recruit" percent="20" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="ew_imperial_vigla_recruit" percent="20" />
+				<volunteer id="en_imperial_vigla_recruit" percent="20" />
+				<volunteer id="es_imperial_vigla_recruit" percent="20" />
+			</eliteTroops>
+		</Culture>
+	</MapFaction>	
+	<MapFaction id="khuzait">
+		<Culture id="empire">
+			<basicTroops>
+				<volunteer id="ew_imperial_recruit" percent="20" />
+				<volunteer id="en_imperial_recruit" percent="20" />
+				<volunteer id="es_imperial_recruit" percent="20" />
+			</basicTroops>
+			<eliteTroops>
+				<volunteer id="ew_imperial_vigla_recruit" percent="20" />
+				<volunteer id="en_imperial_vigla_recruit" percent="20" />
+				<volunteer id="es_imperial_vigla_recruit" percent="20" />
+			</eliteTroops>
+		</Culture>
+	</MapFaction> 	
 </ATCConfig>

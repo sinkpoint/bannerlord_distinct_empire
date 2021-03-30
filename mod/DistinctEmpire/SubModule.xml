@@ -1,7 +1,7 @@
 <Module>
 	<Name value="Distinct Empire"/>
 	<Id value="DistinctEmpire"/>
-	<Version value="e1.0.0"/>
+	<Version value="e1.0.1"/>
 	<DefaultModule value="false"/>
 	<SingleplayerModule value="true"/>
 	<MultiplayerModule value="false"/>
